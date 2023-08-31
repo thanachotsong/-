@@ -1,0 +1,34 @@
+ body {
+    background-color: #9999FF
+ }
+.container-fluid {
+    width: auto;
+    margin: 15px;
+    border: black solid 3px;
+    border-radius: 35px;
+    background-color: #CCFFFF;
+}
+
+.txt1 {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    background-color: #004c99;
+    width: 150px;
+    padding: 8px 0;
+    border-radius: 10px;
+    font-size: 18px;
+    color: #fff;
+}
+
+#btn1 {
+    background-color: #7f00ff;
+    border: #7f00ff;
+}
+
+#btn2 {
+    background-color: #66cc00;
+    border: #66cc00;
+}
